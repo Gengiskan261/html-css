@@ -1,0 +1,27 @@
+@charse "UTF-8";
+
+body {
+    background-color: #7feeff;
+}
+
+h1#principal {
+    text-align: center;
+    color: #1E1FFA;
+}
+
+.basico {
+    text-align: center;
+    color:#5412e3;
+    
+}
+
+.avançado {
+    text-align: center;
+    color: #104AE3;
+}
+
+.intermediario {
+    text-align: center;
+    color: #104AE3;
+}
+    
